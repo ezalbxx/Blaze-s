@@ -1,0 +1,5 @@
+﻿  ScreenPrint.cpp
+C:\Users\骆一鸣\source\repos\Alphafive\Alphafive\ScreenPrint.cpp(85,30): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\骆一鸣\source\repos\Alphafive\Alphafive\ScreenPrint.cpp(87,30): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\骆一鸣\source\repos\Alphafive\Alphafive\ScreenPrint.cpp(104,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  Alphafive.vcxproj -> C:\Users\骆一鸣\source\repos\Alphafive\x64\Debug\Alphafive.exe
